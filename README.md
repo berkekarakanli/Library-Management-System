@@ -1,24 +1,24 @@
 # 📚 Kütüphane Yönetim Sistemi
 
-Bu proje, Python kullanılarak geliştirilmiş basit bir **Kütüphane Yönetim Sistemi** örneğidir.  
+Bu proje, Python aracılığıyla geliştirilmiş basit bir **Kütüphane Yönetim Sistemi** örneğidir.  
 Amaç, görevli ve öğrenciler için kitap ekleme, çıkarma, ödünç alma ve teslim etme işlemlerini konsol tabanlı bir uygulama üzerinden gerçekleştirmektir.
 
 ---
 
 ## 🚀 Özellikler
-- 📖 Kitap ekleme (Basılı kitap veya E-Kitap)
-- ❌ Kitap çıkarma
-- 📋 Kitapları listeleme
-- 📥 Kitap ödünç alma (tarih girişli)
-- 📤 Kitap teslim etme (gecikme durumunda ceza hesaplama)
-- 🔑 Görevli ve öğrenci için ayrı giriş menüleri
+- 📖 Kitap ekleme (Basılı kitap veya E-Kitap)  
+- ❌ Kitap çıkarma  
+- 📋 Kitapları listeleme  
+- 📥 Kitap ödünç alma (tarih girişli)  
+- 📤 Kitap teslim etme (gecikme durumunda ceza hesaplama)  
+- 🔑 Görevli ve öğrenci için ayrı giriş menüleri  
 
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
-- **Python 3**
-- `datetime` modülü (tarih işlemleri için)
-- `abc` modülü (soyut sınıf kullanımı için)
+- **Python 3**  
+- `datetime` modülü (tarih işlemleri için)  
+- `abc` modülü (soyut sınıf kullanımı için)  
 
 ---
 
@@ -32,15 +32,15 @@ kutuphane-yonetim-sistemi/
 ---
 
 ## ▶️ Çalıştırma
-1. Depoyu bilgisayarına klonla:
+1. Depoyu bilgisayarına klonla:  
    ```bash
    git clone https://github.com/kullaniciadi/Kutuphane-Yonetim-Sistem.git
    ```
-2. Proje klasörüne gir:
+2. Proje klasörüne gir:  
    ```bash
    cd Kutuphane-Yonetim-Sistem
    ```
-3. Programı çalıştır:
+3. Programı çalıştır:  
    ```bash
    python kutuphane.py
    ```
